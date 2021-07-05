@@ -1,10 +1,10 @@
-package com.jbianchini.meli.springpractice.myapp;
+package com.jbianchini.meli.romans;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MyappApplicationTests {
+class RomansApplicationTests {
 
     @Test
     void contextLoads() {

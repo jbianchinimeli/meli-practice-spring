@@ -1,13 +1,13 @@
-package com.jbianchini.meli.springpractice.myapp;
+package com.jbianchini.meli.romans;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyappApplication {
+public class RomansApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MyappApplication.class, args);
+        SpringApplication.run(RomansApplication.class, args);
     }
 
 }

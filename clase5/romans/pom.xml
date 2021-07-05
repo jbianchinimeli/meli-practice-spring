@@ -8,10 +8,10 @@
         <version>2.5.2</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.jbianchini.meli.springpractice</groupId>
-    <artifactId>myapp</artifactId>
+    <groupId>com.jbianchini.meli</groupId>
+    <artifactId>romans</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>myapp</name>
+    <name>romans</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>
